@@ -1,0 +1,10 @@
+[info] Running Main 
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug]   Classpath:
+[debug] 	E:\t\target\scala-2.11\classes
+[debug] 	C:\Users\Jason\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+[debug] 	C:\Users\Jason\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.0.jar
+[debug] 	C:\Users\Jason\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+[debug] Waiting for thread run-main-0 to terminate.
+[debug] 	Thread run-main-0 exited.
+[debug] Waiting for thread test-akka.actor.default-dispatcher-2 to terminate.
